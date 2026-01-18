@@ -4,7 +4,7 @@ public class Restaurant {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Rene Sequueira");
+		System.out.print("Rene Sera");
 		
 	}
 
