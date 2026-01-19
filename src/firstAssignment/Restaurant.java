@@ -1,5 +1,7 @@
 //Rene Sequeira
-//Pseudocode critical thinking assignment 1
+//Critical Thinking Assignment 1 - Option #2
+//GIT Repo:  https://github.com/renejsequeira/firstAssignment.git
+//Pseudocode: critical thinking assignment 1
 /*
  * Start
  * set restaurantName variable to name of restaurant
@@ -24,7 +26,7 @@ public class Restaurant {
 		String restaurantName = "EL Toro Loco Steakhouse";
 		String restaurantAddress = "1970 Sw 8th St";
 		String city = "Miami";
-		String state = "Fl";
+		String state = "Florida";
 		int zipCode = 33135;
 		
 		
